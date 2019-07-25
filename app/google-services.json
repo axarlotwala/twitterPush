@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983742551047",
+    "firebase_url": "https://social-push-8dc54.firebaseio.com",
+    "project_id": "social-push-8dc54",
+    "storage_bucket": "social-push-8dc54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983742551047:android:27d9e95526d90575",
+        "android_client_info": {
+          "package_name": "com.snapcode.twitterpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983742551047-k3q7ko435lura8sfmaic2df0pmb5h7bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snapcode.twitterpush",
+            "certificate_hash": "62a37353e8bb0cdb17a6e61e057586c992a603e7"
+          }
+        },
+        {
+          "client_id": "983742551047-601me74gvrsivv4jtis40na7juq1s6k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDL44UYbdwbQTOSgVRz1r5SWa98NX7j30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983742551047-601me74gvrsivv4jtis40na7juq1s6k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
