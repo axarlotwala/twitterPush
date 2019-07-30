@@ -1,2 +1,3 @@
 # twitterPush
-Login Twitter integration and also push notification
+Login  using firebase Twitter auth
+also integration push notification using php mysql server side
